@@ -137,7 +137,7 @@ for epoch in range(0, 5):
     load_time.append(l_time)
     run_time.append(r_time)
 print('CPU or CUDA:',cuda)
-print('Total running time', sum(load_time)/5 + sum(run_time)/5)
+print('Total running time', sum(load_time) + sum(run_time))
 
 """## Test"""
 
