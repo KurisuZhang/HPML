@@ -1,0 +1,12 @@
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 5.623 | Acc: 47.374% | time_loading: 0.8039 | time_training: 168.8097
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 3.642 | Acc: 66.936% | time_loading: 0.7290 | time_training: 171.9675
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 2.790 | Acc: 75.216% | time_loading: 0.7350 | time_training: 159.0559
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 2.342 | Acc: 79.214% | time_loading: 0.6935 | time_training: 150.8410
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 2.056 | Acc: 81.766% | time_loading: 0.6782 | time_training: 149.6300
+num_worker: 12
+Data-loading time for each epoch: [0.8039366499998977, 0.7290082969987282, 0.7350230459990144, 0.6934521770006086, 0.6782338419998268]
+Training time for each epoch: [168.80970427399998, 171.9675263970006, 159.05594357599944, 150.8409565069984, 149.63001020399986]
+Total running time for each epoch [169.61364092399987, 172.69653469399933, 159.79096662199845, 151.534408683999, 150.3082440459997]

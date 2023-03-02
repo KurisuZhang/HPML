@@ -1,0 +1,63 @@
+0.01 sgd 0 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 0
+Data-loading time for each epoch: [10.350029836999994, 10.20039298199994, 10.260119339000255, 10.235573498000008, 10.212574216000036]
+Total running time for each epoch [10.350029836999994, 10.20039298199994, 10.260119339000255, 10.235573498000008, 10.212574216000036]
+0.01 sgd 4 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 4
+Data-loading time for each epoch: [2.7418989160001104, 2.7538006530001553, 2.7373884520000757, 2.7597848439998245, 2.7456076310000412]
+Total running time for each epoch [2.7418989160001104, 2.7538006530001553, 2.7373884520000757, 2.7597848439998245, 2.7456076310000412]
+0.01 sgd 8 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 8
+Data-loading time for each epoch: [1.42018730599996, 1.3673023879999562, 1.4094101789999485, 1.3818649499999935, 1.396486919999802]
+Total running time for each epoch [1.42018730599996, 1.3673023879999562, 1.4094101789999485, 1.3818649499999935, 1.396486919999802]
+0.01 sgd 12 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 12
+Data-loading time for each epoch: [1.0437807610001926, 0.9530081320000932, 1.068501474000243, 1.034747429999868, 0.9550437950000799]
+Total running time for each epoch [1.0437807610001926, 0.9530081320000932, 1.068501474000243, 1.034747429999868, 0.9550437950000799]
+0.01 sgd 16 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 16
+Data-loading time for each epoch: [0.8028719099999364, 0.8147581279997382, 0.7368971630000942, 0.7888810570006797, 0.845504529999971]
+Total running time for each epoch [0.8028719099999364, 0.8147581279997382, 0.7368971630000942, 0.7888810570006797, 0.845504529999971]
+0.01 sgd 20 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 20
+Data-loading time for each epoch: [0.8451850889999548, 0.8395013549997827, 0.8054370640004436, 0.7600139220001267, 0.8125183199995831]
+Total running time for each epoch [0.8451850889999548, 0.8395013549997827, 0.8054370640004436, 0.7600139220001267, 0.8125183199995831]
+0.01 sgd 24 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 24
+Data-loading time for each epoch: [0.7267271450003818, 0.7379093469997997, 0.7109670899998832, 0.7229428990000031, 0.759698663999643]
+Total running time for each epoch [0.7267271450003818, 0.7379093469997997, 0.7109670899998832, 0.7229428990000031, 0.759698663999643]
+0.01 sgd 28 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 28
+Data-loading time for each epoch: [0.6854310560001124, 0.6757194129998254, 0.6347905510000942, 0.6514581650002071, 0.666524010000046]
+Total running time for each epoch [0.6854310560001124, 0.6757194129998254, 0.6347905510000942, 0.6514581650002071, 0.666524010000046]
+0.01 sgd 32 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+num_worker: 32
+Data-loading time for each epoch: [0.6302750299998934, 0.5573531170000194, 0.5509380680003062, 0.5669404289998852, 0.5852371889999688]
+Total running time for each epoch [0.6302750299998934, 0.5573531170000194, 0.5509380680003062, 0.5669404289998852, 0.5852371889999688]

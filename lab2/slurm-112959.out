@@ -1,0 +1,10 @@
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 5.607 | Acc: 47.702% | time_loading: 0.7147 | time_training: 172.8251
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 3.626 | Acc: 67.068% | time_loading: 0.5946 | time_training: 162.0395
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 2.798 | Acc: 74.888% | time_loading: 0.6398 | time_training: 161.5176
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 2.336 | Acc: 79.244% | time_loading: 0.6147 | time_training: 155.8007
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 2.024 | Acc: 82.204% | time_loading: 0.6329 | time_training: 170.0926
+CPU or CUDA: cpu
+Total running time 825.472289889

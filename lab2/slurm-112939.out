@@ -1,0 +1,55 @@
+/ext3/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Files already downloaded and verified
+Files already downloaded and verified
+device: cuda
+optimizer: sgd
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 7.027 | Acc: 34.724% | time_training: 31.3047
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 5.263 | Acc: 50.708% | time_training: 6.6550
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 4.255 | Acc: 61.158% | time_training: 6.5974
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 3.524 | Acc: 67.992% | time_training: 7.0097
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 2.991 | Acc: 73.128% | time_training: 7.5404
+/ext3/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Files already downloaded and verified
+Files already downloaded and verified
+device: cuda
+optimizer: nesterov
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 7.327 | Acc: 33.242% | time_training: 9.2245
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 5.324 | Acc: 50.160% | time_training: 7.2017
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 4.243 | Acc: 61.158% | time_training: 7.2508
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 3.549 | Acc: 67.870% | time_training: 7.0876
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 2.998 | Acc: 73.200% | time_training: 7.1513
+/ext3/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Files already downloaded and verified
+Files already downloaded and verified
+device: cuda
+optimizer: adagrad
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 8.728 | Acc: 23.288% | time_training: 8.9216
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 6.491 | Acc: 37.766% | time_training: 7.4514
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 5.544 | Acc: 47.506% | time_training: 7.5729
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 4.762 | Acc: 55.858% | time_training: 8.0319
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 4.095 | Acc: 62.440% | time_training: 7.9766
+/ext3/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Files already downloaded and verified
+Files already downloaded and verified
+device: cuda
+optimizer: adadelta
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 5.453 | Acc: 48.718% | time_training: 10.1488
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 3.459 | Acc: 68.568% | time_training: 8.5259
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 2.664 | Acc: 76.144% | time_training: 8.3639
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 2.239 | Acc: 79.924% | time_training: 8.4158
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 1.979 | Acc: 82.336% | time_training: 8.1624
+/ext3/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Files already downloaded and verified
+Files already downloaded and verified
+device: cuda
+optimizer: adam
+[Train]: Epoch: 1 | num_worker: 12 | Loss: 8.574 | Acc: 23.386% | time_training: 9.9893
+[Train]: Epoch: 2 | num_worker: 12 | Loss: 7.189 | Acc: 29.682% | time_training: 8.3839
+[Train]: Epoch: 3 | num_worker: 12 | Loss: 7.032 | Acc: 31.316% | time_training: 8.5111
+[Train]: Epoch: 4 | num_worker: 12 | Loss: 6.886 | Acc: 33.166% | time_training: 8.3867
+[Train]: Epoch: 5 | num_worker: 12 | Loss: 6.825 | Acc: 33.678% | time_training: 8.8980

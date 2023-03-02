@@ -1,0 +1,13 @@
+0.01 sgd 2 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+[Train]: Epoch: 1 | Loss: 5.676 | Acc: 46.682% | time_loading: 0.7544 | time_training: 169.9111
+[Train]: Epoch: 2 | Loss: 3.652 | Acc: 66.742% | time_loading: 0.6595 | time_training: 159.4399
+[Train]: Epoch: 3 | Loss: 2.761 | Acc: 75.180% | time_loading: 0.7133 | time_training: 152.6782
+[Train]: Epoch: 4 | Loss: 2.323 | Acc: 79.230% | time_loading: 0.7124 | time_training: 161.6426
+[Train]: Epoch: 5 | Loss: 2.028 | Acc: 81.806% | time_loading: 0.7013 | time_training: 152.3581
+Data-loading time for each epoch: [0.7544463370001182, 0.6595492180003646, 0.7132533909992276, 0.7123572780006953, 0.7013492270006054]
+Training time for each epoch: [169.91108245500035, 159.439932782, 152.6781635129995, 161.64259755000194, 152.35805933899917]
+Total running time for each epoch [170.6655287920005, 160.09948200000036, 153.39141690399873, 162.35495482800263, 153.05940856599977]
+[Test]: Epoch: 1 | Loss: 0.812 | Acc: 74.770%
