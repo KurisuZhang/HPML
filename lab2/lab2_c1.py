@@ -65,8 +65,8 @@ print("device:" , device)
 
 net = ResNet18().to(device)
 
-from torchsummary import summary
-summary(net, (3,32,32))
+#from torchsummary import summary
+#summary(net, (3,32,32))
 
 criterion = nn.CrossEntropyLoss()
 if opt == 'sgd':

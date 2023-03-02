@@ -1,0 +1,15 @@
+0.1 sgd 2 cpu
+Files already downloaded and verified
+Files already downloaded and verified
+device: cpu
+[Train]: Epoch: 1 | Loss: 7.459 | Acc: 31.406%
+Saving Epoch  1
+[Train]: Epoch: 2 | Loss: 5.565 | Acc: 47.534%
+Saving Epoch  2
+[Train]: Epoch: 3 | Loss: 4.552 | Acc: 58.252%
+Saving Epoch  3
+[Train]: Epoch: 4 | Loss: 3.801 | Acc: 65.256%
+Saving Epoch  4
+[Train]: Epoch: 5 | Loss: 3.327 | Acc: 69.934%
+Saving Epoch  5
+[Test]: Epoch: 1 | Loss: 1.036 | Acc: 63.350%
